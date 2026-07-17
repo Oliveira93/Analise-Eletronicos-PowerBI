@@ -19,11 +19,12 @@ O objetivo é demonstrar conhecimentos em modelagem de dados, Power Query, DAX e
 
 ## 📈 Indicadores desenvolvidos
 
-- Faturamento total
-- Quantidade de vendas
-- Produtos mais vendidos
-- Categorias
-- Análise por período
+• Faturamento total
+• Quantidade de vendas
+• Produtos mais vendidos
+• Faturamento por categoria
+• Distribuição geográfica das vendas
+• Evolução do faturamento
 
 ---
 
