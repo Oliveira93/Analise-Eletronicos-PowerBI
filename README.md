@@ -33,7 +33,7 @@ A página **Visão Geral** compara os três canais de venda (Site, Marketplace e
 
 A página **Categorias** traz a distribuição percentual do faturamento por categoria de produto (Notebook, Smartphone, Console, Smart TV, Fone, Smartwatch e Monitor), com filtro por canal de venda.
 
-![Categorias - Distribuição do Faturamento por Categoria](Categorias.jpg)
+![Categorias - Distribuição do Faturamento por Categoria](Categoria.jpg)
 
 ---
 
