@@ -1,83 +1,62 @@
-# 📊 Análise de Produtos Eletrônicos
+# 📊 Análise de Produtos Eletrônicos — Power BI
 
-## 📖 Sobre o projeto
+<p align="center">
+  <img src="capa-projeto-eletrônicos.png" alt="Capa do projeto de análise de produtos eletrônicos">
+</p>
 
-Este projeto foi desenvolvido em Power BI utilizando uma base fictícia de vendas de produtos eletrônicos.
+## 📌 Sobre o projeto
 
-O que começou como um exercício de matriz virou meu primeiro projeto completo de análise de dados. A partir dos dados disponíveis, defini 5 perguntas de negócio que queria responder — e construí uma página do dashboard para cada uma delas.
+Este projeto apresenta uma análise de vendas de produtos eletrônicos desenvolvida no **Power BI**, com foco na identificação de padrões de vendas, desempenho dos produtos, evolução ao longo do tempo e distribuição geográfica das vendas.
 
-O objetivo é demonstrar conhecimentos em modelagem de dados, Power Query, DAX e criação de dashboards para apoio à tomada de decisão.
+O dashboard foi desenvolvido buscando transformar os dados em informações que possam apoiar a análise de desempenho e a tomada de decisão.
 
----
+## 🎯 Objetivos
+
+* Analisar o desempenho das vendas ao longo do tempo;
+* Identificar as categorias e produtos com maior participação nas vendas;
+* Comparar o desempenho dos produtos;
+* Analisar a distribuição das vendas por localização;
+* Criar indicadores para acompanhamento dos principais resultados;
+* Desenvolver uma visualização clara e interativa para exploração dos dados.
 
 ## 🛠️ Ferramentas utilizadas
 
-- Power BI
-- Power Query
-- DAX
-- Microsoft Excel
+* **Power BI**
+* **Power Query**
+* **DAX**
+* Modelagem de dados
+* Relacionamentos entre tabelas
+* Visualização e criação de dashboards
 
----
+## 📊 Dashboard
 
-## ❓ Perguntas do projeto
+O projeto foi estruturado em diferentes páginas para facilitar a análise dos dados.
 
-### 1. Como está distribuído o faturamento entre os canais de venda?
+### Visão Geral
 
-A página **Visão Geral** compara os três canais de venda (Site, Marketplace e Loja Física) em quantidade, desconto e valor total, permitindo identificar rapidamente qual canal mais contribui para o faturamento.
+Página destinada ao acompanhamento dos principais indicadores e uma visão consolidada do desempenho das vendas.
 
-![Visão Geral - Comparativo entre Canais de Venda](Vis%C3%A3o%20Geral.jpg)
+![Visão Geral](Visão%20Geral.jpg)
 
----
+### Evolução de Vendas
 
-### 2. Qual categoria representa a maior parcela das vendas?
+Análise da evolução das vendas ao longo do período, permitindo identificar tendências e variações no desempenho.
 
-A página **Categorias** traz a distribuição percentual do faturamento por categoria de produto (Notebook, Smartphone, Console, Smart TV, Fone, Smartwatch e Monitor), com filtro por canal de venda.
+![Evolução de Vendas](Evolução%20de%20vendas.jpg)
 
-![Categorias - Distribuição do Faturamento por Categoria](Categoria.jpg)
+### Produtos
 
----
+Análise do desempenho dos produtos, permitindo identificar os itens com maior participação nas vendas.
 
-### 3. Quais são os produtos mais vendidos?
+![Produtos](Produtos.jpg)
 
-A página **Produtos** apresenta um ranking dos itens com maior quantidade vendida, com filtros por canal e ano.
+### Categorias
 
-![Produtos - Ranking de Produtos Mais Vendidos](Produtos.jpg)
+Comparação do desempenho entre as diferentes categorias de produtos.
 
----
+![Categorias](Categoria.jpg)
 
-### 4. Quais cidades concentram o maior faturamento?
+### Localização
 
-A página **Localização** exibe a distribuição geográfica do faturamento em um mapa, destacando as cidades com maior concentração de vendas.
+Análise da distribuição das vendas de acordo com a localização.
 
-![Localização - Distribuição Geográfica do Faturamento](Localiza%C3%A7%C3%A3o.jpg)
-
----
-
-### 5. Como as vendas evoluíram ao longo do tempo?
-
-A página **Evolução das Vendas** mostra a série temporal do faturamento, com linha de tendência para identificar o comportamento das vendas ao longo dos períodos.
-
-![Evolução das Vendas - Faturamento ao Longo do Tempo](Evolu%C3%A7%C3%A3o%20de%20vendas.jpg)
-
----
-
-## 📈 Indicadores desenvolvidos
-
-- Faturamento total
-- Quantidade de vendas
-- Produtos mais vendidos
-- Faturamento por categoria
-- Distribuição geográfica das vendas
-- Evolução do faturamento
-
----
-
-## 🎯 Objetivo
-
-Desenvolver um dashboard interativo para análise de vendas, permitindo identificar tendências e apoiar decisões baseadas em dados.
-
----
-
-## 👨‍💻 Autor
-
-Lucas Oliveira
