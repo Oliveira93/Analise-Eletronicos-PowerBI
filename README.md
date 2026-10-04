@@ -1,7 +1,7 @@
 # 📊 Análise de Produtos Eletrônicos — Power BI
 
 <p align="center">
-  <img src="capa-projeto-eletrônicos.png" alt="Capa do projeto de análise de produtos eletrônicos">
+  <img src="capa-projeto-eletronicos.png" alt="Capa do projeto de análise de produtos eletrônicos">
 </p>
 
 ## 📌 Sobre o projeto
